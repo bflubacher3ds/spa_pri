@@ -1,0 +1,7 @@
+This folder contains a small collection of qmake include files that help to
+configure a build environment for Spatial products.
+
+acis.pri
+iop.pri
+hoops.pri
+
